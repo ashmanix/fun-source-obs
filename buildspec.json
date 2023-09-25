@@ -44,11 +44,11 @@
             "bundleId": "com.example.obs-plugintemplate"
         }
     },
-    "name": "obs-plugintemplate",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "name": "fun-source-obs-plugin",
+    "version": "0.0.1",
+    "author": "Ashmanix",
+    "website": "https://www.ashmanix.com",
+    "email": "email@ashmanix.com",
     "uuids": {
         "macosPackage": "00000000-0000-0000-0000-000000000000",
         "macosInstaller": "00000000-0000-0000-0000-000000000000",
